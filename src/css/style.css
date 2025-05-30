@@ -181,22 +181,6 @@ footer .links {
     border: none;
     cursor: pointer;
     display: none; /* Escondido por padrão */
-}
-
-/* Estilos para tornar o menu responsivo */
-.nav-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-#nav-menu {
-    display: flex;
-    list-style: none;
-    gap: 20px;
-}
-
-#hamburguer {
     color: white;
 }
 
