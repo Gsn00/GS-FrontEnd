@@ -196,12 +196,12 @@ footer .links {
     gap: 20px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
     .hamburger {
-        display: block; /* Exibe o botão em telas menores */
+        display: flex; /* Exibe o botão em telas menores */
     }
     
-    #nav-menu {
+    header .links {
         display: none;
         flex-direction: column;
         position: absolute;
