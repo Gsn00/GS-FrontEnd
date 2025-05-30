@@ -5,6 +5,10 @@
     font-family: 'Fahkwang-Light';
 }
 
+html, body {
+    width: 100vw;
+}
+
 @font-face {
     font-family: 'Maharlika';
     src: url('../fonts/Maharlika-Regular.ttf');
