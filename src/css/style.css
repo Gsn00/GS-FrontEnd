@@ -196,6 +196,10 @@ footer .links {
     gap: 20px;
 }
 
+#hamburguer {
+    color: white;
+}
+
 @media (max-width: 1200px) {
     .hamburger {
         display: flex; /* Exibe o botão em telas menores */
