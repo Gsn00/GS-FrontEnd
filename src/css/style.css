@@ -200,6 +200,10 @@ footer .links {
     .hamburger {
         display: flex; /* Exibe o botão em telas menores */
     }
+
+    footer .links {
+        flex-direction: column;
+    }
     
     header .links {
         display: none;
